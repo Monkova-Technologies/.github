@@ -41,18 +41,17 @@ We are a talented team of 12 dedicated professionals:
 | Member | Role/GitHub | Status |
 |--------|-------------|--------|
 | Vivek Singh | [@developedbyviv](https://github.com/developedbyviv) - DevOps Engineer & Project Manager | Owner |
-| Mohit Saini | [@Mohit616-byte](https://github.com/Mohit616-byte) - Lead Developer | Member |
-| Ashik Raja | [@ashikraja2003](https://github.com/ashikraja2003) | Member |
-| Ayush Rane | [@Ayushrane45](https://github.com/Ayushrane45) | Member |
-| Ajay Pandey | [@devajaypndey](https://github.com/devajaypndey) | Member |
-| Anurag | [@excuation](https://github.com/excuation) | Member |
+| Mohit Saini | [@Mohit616-byte](https://github.com/Mohit616-byte) - Project Coordinator | Member |
+| Ashik Raja | [@ashikraja2003](https://github.com/ashikraja2003) - Frontend Developer | Member |
+| Ayush Rane | [@Ayushrane45](https://github.com/Ayushrane45) - Jn. Frontend Developer | Member |
+| Ajay Pandey | [@devajaypndey](https://github.com/devajaypndey) - Frontend Engineer | Member |
+| Anurag | [@excuation](https://github.com/excuation) - Frontend and Backend Engineer | Member |
 | new2312 | [@new2312](https://github.com/new2312) | Member |
-| Rahul Kumar | [@rahulstm](https://github.com/rahulstm) | Member |
-| Rishav Raj | [@rixhavraj](https://github.com/rixhavraj) | Member |
-| Pratyush Yadav | [@tech-dev0](https://github.com/tech-dev0) | Member |
-| Sadhana Chaudhary | [@Xyzqb](https://github.com/Xyzqb) | Member |
+| Rahul Kumar | [@rahulstm](https://github.com/rahulstm) - Backend Engineer & Resource Manager | Member |
+| Rishav Raj | [@rixhavraj](https://github.com/rixhavraj) - Jn. Frontend Engineer | Member |
+| Pratyush Yadav | [@tech-dev0](https://github.com/tech-dev0) - Frontend Engineer | Member |
+| Sadhana Chaudhary | [@Xyzqb](https://github.com/Xyzqb) - Frontend Engineer | Member |
 | MonkovaTechnologies | [@MonkovaTechnologies](https://github.com/MonkovaTechnologies) - Organization Account | Owner |
-
 ## 💻 Technology Stack
 
 We leverage modern technologies and best practices:
