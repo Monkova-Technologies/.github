@@ -36,18 +36,22 @@ Innovative mentorship platform connecting experts with learners in the tech indu
 
 ## 👥 Our Team
 
-We are a talented team of 6 dedicated professionals:
+We are a talented team of 12 dedicated professionals:
 
-| Member | Role | GitHub |
-|--------|------|--------|
-| Vivek Singh | DevOps Engineer & Project Manager | [@developedbyviv](https://github.com/developedbyviv) |
-| Mohit Saini | Lead Developer | [@Mohit616-byte](https://github.com/Mohit616-byte) |
-| Yash Sharma | Full Stack Developer | [@YashSharma412](https://github.com/YashSharma412) |
-| Ankit Kumar | Backend Developer | [@ankitkumar5358](https://github.com/ankitkumar5358) |
-| Tiwari Ji | Frontend Developer | [@tiwariji-21](https://github.com/tiwariji-21) |
-| MonkovaTechnologies | Organization Account | [@MonkovaTechnologies](https://github.com/MonkovaTechnologies) |
-
----
+| Member | Role/GitHub | Status |
+|--------|-------------|--------|
+| Vivek Singh | [@developedbyviv](https://github.com/developedbyviv) - DevOps Engineer & Project Manager | Owner |
+| Mohit Saini | [@Mohit616-byte](https://github.com/Mohit616-byte) - Lead Developer | Member |
+| Ashik Raja | [@ashikraja2003](https://github.com/ashikraja2003) | Member |
+| Ayush Rane | [@Ayushrane45](https://github.com/Ayushrane45) | Member |
+| Ajay Pandey | [@devajaypndey](https://github.com/devajaypndey) | Member |
+| Anurag | [@excuation](https://github.com/excuation) | Member |
+| new2312 | [@new2312](https://github.com/new2312) | Member |
+| Rahul Kumar | [@rahulstm](https://github.com/rahulstm) | Member |
+| Rishav Raj | [@rixhavraj](https://github.com/rixhavraj) | Member |
+| Pratyush Yadav | [@tech-dev0](https://github.com/tech-dev0) | Member |
+| Sadhana Chaudhary | [@Xyzqb](https://github.com/Xyzqb) | Member |
+| MonkovaTechnologies | [@MonkovaTechnologies](https://github.com/MonkovaTechnologies) - Organization Account | Owner |
 
 ## 💻 Technology Stack
 
@@ -74,7 +78,7 @@ We leverage modern technologies and best practices:
 ## 📊 Organization Statistics
 
 - **Active Projects:** 2 main projects with multiple supporting repositories
-- **Team Members:** 6 dedicated professionals
+- **Team Members:**12 dedicated professionals
 - **Technologies Used:** 10+
 - **Focus Areas:** Travel Tech, Web Development, API Development, DevOps
 - **Repositories:** 8 active repositories
