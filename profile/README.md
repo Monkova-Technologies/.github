@@ -1,18 +1,38 @@
 # 🚀 Monkova Technologies
 
+[![Website](https://img.shields.io/badge/Website-monkovatechnologies.com-blue?style=flat-square)](https://monkovatechnologies.com/)
+[![GitHub Organization](https://img.shields.io/badge/GitHub-Monkova--Technologies-lightgrey?style=flat-square)](https://github.com/Monkova-Technologies)
+[![Location](https://img.shields.io/badge/Location-India-green?style=flat-square)]()
+[![Team Members](https://img.shields.io/badge/Team%20Members-6-orange?style=flat-square)]()
+
 > Building innovative solutions for the travel and technology industry
+
+---
 
 ## 👋 Welcome to Monkova Technologies
 
 Monkova Technologies is a dynamic software development organization focused on creating cutting-edge web applications and APIs. We specialize in full-stack development, DevOps practices, and building scalable solutions that make a real-world impact.
+
+Our mission is to deliver innovative, scalable, and user-friendly solutions that transform the travel industry and beyond.
+
+---
 
 ## 🌟 Our Flagship Projects
 
 ### 🏴 [TripzHolidays](https://github.com/Monkova-Technologies/tripzholidays)
 A comprehensive travel booking and management platform designed to revolutionize the way people plan and book their holidays. Built with modern technologies and best practices.
 
+**Tech Stack:** JavaScript, React, Node.js, MongoDB
+
 ### 🔌 [API Services](https://github.com/Monkova-Technologies/api)
 Robust and scalable API solutions powering our applications with secure, efficient, and well-documented endpoints.
+
+**Tech Stack:** Node.js, Express.js, MongoDB
+
+### 📱 [MentorBay](https://github.com/Monkova-Technologies/mentorbay)
+Innovative mentorship platform connecting experts with learners in the tech industry.
+
+---
 
 ## 👥 Our Team
 
@@ -20,14 +40,18 @@ We are a talented team of 6 dedicated professionals:
 
 | Member | Role | GitHub |
 |--------|------|--------|
-| **Vivek Singh** | DevOps Engineer & Project Manager | [@developedbyviv](https://github.com/developedbyviv) |
-| **Mohit Saini** | Lead Developer | [@Mohit616-byte](https://github.com/Mohit616-byte) |
-| **Yash Sharma** | Full Stack Developer | [@YashSharma412](https://github.com/YashSharma412) |
-| **Ankit Kumar** | Backend Developer | [@ankitkumar5358](https://github.com/ankitkumar5358) |
-| **Tiwari Ji** | Frontend Developer | [@tiwariji-21](https://github.com/tiwariji-21) |
-| **MonkovaTechnologies** | Organization Account | [@MonkovaTechnologies](https://github.com/MonkovaTechnologies) |
+| Vivek Singh | DevOps Engineer & Project Manager | [@developedbyviv](https://github.com/developedbyviv) |
+| Mohit Saini | Lead Developer | [@Mohit616-byte](https://github.com/Mohit616-byte) |
+| Yash Sharma | Full Stack Developer | [@YashSharma412](https://github.com/YashSharma412) |
+| Ankit Kumar | Backend Developer | [@ankitkumar5358](https://github.com/ankitkumar5358) |
+| Tiwari Ji | Frontend Developer | [@tiwariji-21](https://github.com/tiwariji-21) |
+| MonkovaTechnologies | Organization Account | [@MonkovaTechnologies](https://github.com/MonkovaTechnologies) |
+
+---
 
 ## 💻 Technology Stack
+
+We leverage modern technologies and best practices:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -36,47 +60,68 @@ We are a talented team of 6 dedicated professionals:
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ## 🔐 Security & Best Practices
 
-- **Secure Development**: Following industry-standard security practices
-- **Code Reviews**: All code is reviewed before merging
-- **Access Control**: Strict permission management and role-based access
-- **Quality Assurance**: Comprehensive testing and continuous integration
+- **Secure Development:** Following industry-standard security practices
+- **Code Reviews:** All code is reviewed before merging
+- **Access Control:** Strict permission management and role-based access
+- **Quality Assurance:** Comprehensive testing and continuous integration
+
+---
 
 ## 📊 Organization Statistics
 
-- **Active Projects**: 2
-- **Team Members**: 6
-- **Technologies Used**: 10+
-- **Focus Areas**: Travel Tech, Web Development, API Development
+- **Active Projects:** 2 main projects with multiple supporting repositories
+- **Team Members:** 6 dedicated professionals
+- **Technologies Used:** 10+
+- **Focus Areas:** Travel Tech, Web Development, API Development, DevOps
+- **Repositories:** 8 active repositories
+
+---
 
 ## 🤝 Contributing
 
-We believe in collaborative development and welcome contributions from our team members. All contributions go through our review process to maintain code quality and security.
+We believe in collaborative development and welcome contributions from our team members. All contributions go through a structured review process:
 
 ### Our Workflow:
-1. Create a feature branch
-2. Make your changes
-3. Submit a pull request
-4. Code review by Mohit or Vivek
-5. Merge after approval
+
+1. **Create a feature branch** from the main development branch
+2. **Make your changes** following our coding standards
+3. **Submit a pull request** with a clear description
+4. **Code review** by Mohit or Vivek
+5. **Merge** after approval
+
+---
 
 ## 📫 Contact Us
 
 Interested in learning more about our projects or want to collaborate?
 
-- **Organization**: [Monkova Technologies](https://github.com/Monkova-Technologies)
-- **Project Manager**: [@developedbyviv](https://github.com/developedbyviv)
-- **Lead Developer**: [@Mohit616-byte](https://github.com/Mohit616-byte)
+- **Organization:** [Monkova Technologies](https://github.com/Monkova-Technologies)
+- **Project Manager:** [@developedbyviv](https://github.com/developedbyviv)
+- **Lead Developer:** [@Mohit616-byte](https://github.com/Mohit616-byte)
+- **Website:** [monkovatechnologies.com](https://monkovatechnologies.com/)
+
+---
 
 ## 🎯 Our Vision
 
-To deliver innovative, scalable, and user-friendly solutions that transform the travel industry and beyond. We're committed to excellence, continuous improvement, and building products that make a difference.
+To deliver innovative, scalable, and user-friendly solutions that transform the travel industry and empower businesses to achieve their digital transformation goals.
+
+---
+
+## 📌 Quick Links
+
+- [All Repositories](https://github.com/Monkova-Technologies?type=source)
+- [Organization Teams](https://github.com/orgs/Monkova-Technologies/teams)
+- [Organization Projects](https://github.com/orgs/Monkova-Technologies/projects)
 
 ---
 
 <div align="center">
   <strong>Built with ❤️ by Monkova Technologies</strong>
   <br>
-  <sub>Last Updated: November 2025</sub>
+  <em>Last Updated: December 2025</em>
 </div>
