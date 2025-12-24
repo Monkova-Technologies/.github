@@ -106,6 +106,7 @@ Interested in learning more about our projects or want to collaborate?
 - **Project Manager:** [@developedbyviv](https://github.com/developedbyviv)
 - **Lead Developer:** [@Mohit616-byte](https://github.com/Mohit616-byte)
 - **Website:** [monkovatechnologies.com](https://monkovatechnologies.com/)
+- - **Email:** [info@monkovatechnologies.com](mailto:info@monkovatechnologies.com) - For queries and other inquiries
 
 ---
 
