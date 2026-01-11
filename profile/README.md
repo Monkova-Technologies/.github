@@ -1,13 +1,28 @@
+```
+   __  ___                 _           _____           _               _           _     
+  |  \/  |                | |         |_   _|         | |             | |         | |    
+  | .  . | ___  _ __   _  | | ___  _   _| | ___   ___ | |__   ___   __| |_   _ __| | __ 
+  | |\/| |/ _ \| '_ \ | | | |/ _ \| | | | |/ _ \ / __|| '_ \ / _ \ / _` | | | / _` |/ _  \
+  | |  | | (_) | | | || |_| | (_) | |_| | | ___/| (__ | | | | (_) | (_| | |_| | (_| | (_) |
+  \_|  |_/\___/|_| |_| \__,_|\___/ \__, |\_|\___| \___||_| |_|\___/ \__,_|\__,_|\__,_|\___/ 
+                                    __/ |                                                 
+                                   |___/                                                  
+```
+
 <div align="center">
-
-# 🚀 MONKOVA TECHNOLOGIES 🚀
 ## *Transforming Ideas Into Scalable Solutions*
-
 </div>
 
 ---
 
 <div align="center">
+
+[![Website](https://img.shields.io/badge/🌐%20Website-monkovatechnologies.com-blue?style=for-the-badge)](https://monkovatechnologies.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Monkova--Technologies-black?style=for-the-badge)](https://github.com/Monkova-Technologies)
+[![Location](https://img.shields.io/badge/📍%20Location-India-green?style=for-the-badge)]()  
+[![Team](https://img.shields.io/badge/👥%20Team-6%20Members-orange?style=for-the-badge)]()
+
+</div>
 
 [![Website](https://img.shields.io/badge/🌐%20Website-monkovatechnologies.com-blue?style=for-the-badge)](https://monkovatechnologies.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-Monkova--Technologies-black?style=for-the-badge)](https://github.com/Monkova-Technologies)
